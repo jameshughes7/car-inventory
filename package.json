@@ -1,0 +1,25 @@
+{
+  "name": "car-inventory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameshughes7/car-inventory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameshughes7/car-inventory/issues"
+  },
+  "homepage": "https://github.com/jameshughes7/car-inventory#readme"
+}
